@@ -1,4 +1,4 @@
-package com.awesome01
+package com.sipcalculator
 
 import android.app.Application
 import com.facebook.react.PackageList
